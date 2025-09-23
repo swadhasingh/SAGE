@@ -1,0 +1,23 @@
+# Backend requirements for SAGE (backend5.py)
+# Flask web framework and extensions
+flask==2.3.3
+flask-cors==4.0.0
+flask-socketio==5.3.4
+
+# Environment and configuration
+python-dotenv==1.0.0
+
+# AI and language models
+langchain-google-genai==1.0.3
+
+
+
+# Utilities and helpers
+qrcode==7.4.2
+pillow>=9.0.0
+
+# Background tasks and scheduling
+apscheduler==3.10.4
+
+# HTTP requests (for internal API calls if needed)
+requests==2.31.0
