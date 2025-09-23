@@ -10,7 +10,7 @@ python-dotenv==1.0.0
 # AI and language models
 langchain-google-genai==1.0.3
 
-
+chromadb
 
 # Utilities and helpers
 qrcode==7.4.2
